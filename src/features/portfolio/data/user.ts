@@ -44,7 +44,7 @@ export const USER: User = {
     darkOff: "/images/avatar-dark-off.webp",
     darkOn: "/images/avatar-dark-on.webp", */
   },
-  ogImage: "/images/me.webp",
+  ogImage: "/seo.png",
   timeZone: "Europe/Lisbon",
   keywords: [
     "Nuno Santos",

@@ -63,12 +63,20 @@ export const metadata: Metadata = {
     firstName: USER.firstName,
     lastName: USER.lastName,
     username: USER.username,
-    // Image comes from src/app/opengraph-image.tsx
+    images: [
+      {
+        url: SITE_INFO.ogImage,
+        width: 1200,
+        height: 630,
+        alt: `${USER.displayName} – ${USER.jobTitle}`,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     site: X_HANDLE,
     creator: X_HANDLE,
+    images: [SITE_INFO.ogImage],
   },
   verification: {
     google: "3g-QfSuQ8ouAZ0TQob8tC6EFTYqRfGruFxYMFpIowxQ",
