@@ -1,0 +1,48 @@
+<svg viewBox="-229.70 -42.00 681.11 434.00" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <pattern id="diag" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+        <rect width="10" height="10" fill="var(--bg)"></rect>
+        <line x1="0" y1="0" x2="0" y2="10" stroke="var(--line)" stroke-width="1"></line>
+      </pattern>
+    </defs>
+<polygon points="55.43,-2 0,30 0,64 55.43,32"></polygon>
+<polygon points="0,-34 55.43,-2 0,30 -55.43,-2"></polygon>
+<polygon points="-55.43,-2 0,30 -55.43,62 -110.85,30"></polygon>
+<polygon points="-55.43,62 -110.85,94 -110.85,128 -55.43,96"></polygon>
+<polygon points="-110.85,30 -55.43,62 -110.85,94 -166.28,62"></polygon>
+<polygon points="55.43,62 0,94 0,128 55.43,96"></polygon>
+<polygon points="-55.43,62 0,94 0,128 -55.43,96"></polygon>
+<polygon points="0,30 55.43,62 0,94 -55.43,62"></polygon>
+<polygon points="221.7,94 166.28,126 166.28,160 221.7,128"></polygon>
+<polygon points="166.28,62 221.7,94 166.28,126 110.85,94"></polygon>
+<polygon points="-110.85,94 -166.28,126 -166.28,160 -110.85,128"></polygon>
+<polygon points="-221.7,94 -166.28,126 -166.28,160 -221.7,128"></polygon>
+<polygon points="-166.28,62 -110.85,94 -166.28,126 -221.7,94"></polygon>
+<polygon points="166.28,126 110.85,158 110.85,192 166.28,160"></polygon>
+<polygon points="110.85,94 166.28,126 110.85,158 55.43,126"></polygon>
+<polygon points="-55.43,126 0,158 0,192 -55.43,160"></polygon>
+<polygon points="0,94 55.43,126 0,158 -55.43,126"></polygon>
+<polygon points="110.85,158 55.43,190 55.43,224 110.85,192"></polygon>
+<polygon points="55.43,126 110.85,158 55.43,190 0,158"></polygon>
+<polygon points="277.13,126 332.55,158 277.13,190 221.7,158"></polygon>
+<polygon points="55.43,190 0,222 0,256 55.43,224"></polygon>
+<polygon points="-55.43,190 0,222 0,256 -55.43,224"></polygon>
+<polygon points="0,158 55.43,190 0,222 -55.43,190"></polygon>
+<polygon points="277.13,190 332.55,222 332.55,256 277.13,224"></polygon>
+<polygon points="332.55,158 387.98,190 332.55,222 277.13,190"></polygon>
+<polygon points="277.13,190 221.7,222 221.7,256 277.13,224"></polygon>
+<polygon points="166.28,190 221.7,222 221.7,256 166.28,224"></polygon>
+<polygon points="221.7,158 277.13,190 221.7,222 166.28,190"></polygon>
+<polygon points="443.41,222 387.98,254 387.98,288 443.41,256"></polygon>
+<polygon points="332.55,222 387.98,254 387.98,288 332.55,256"></polygon>
+<polygon points="387.98,190 443.41,222 387.98,254 332.55,222"></polygon>
+<polygon points="55.43,254 110.85,286 110.85,320 55.43,288"></polygon>
+<polygon points="110.85,222 166.28,254 110.85,286 55.43,254"></polygon>
+<polygon points="332.55,286 277.13,318 277.13,352 332.55,320"></polygon>
+<polygon points="277.13,254 332.55,286 277.13,318 221.7,286"></polygon>
+<polygon points="110.85,286 166.28,318 166.28,352 110.85,320"></polygon>
+<polygon points="166.28,254 221.7,286 166.28,318 110.85,286"></polygon>
+<polygon points="277.13,318 221.7,350 221.7,384 277.13,352"></polygon>
+<polygon points="166.28,318 221.7,350 221.7,384 166.28,352"></polygon>
+<polygon points="221.7,286 277.13,318 221.7,350 166.28,318"></polygon>
+  </svg>
